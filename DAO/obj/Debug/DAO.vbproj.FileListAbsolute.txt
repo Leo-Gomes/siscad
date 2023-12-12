@@ -1,0 +1,28 @@
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\bin\Debug\DAO.dll
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\bin\Debug\DAO.pdb
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\bin\Debug\DAO.xml
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\obj\Debug\DAO.vbproj.AssemblyReference.cache
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\obj\Debug\DAO.Resources.resources
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\obj\Debug\DAO.vbproj.GenerateResource.cache
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\obj\Debug\DAO.vbproj.CoreCompileInputs.cache
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\obj\Debug\DAO.dll
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\obj\Debug\DAO.xml
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\obj\Debug\DAO.pdb
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\bin\Debug\Model.dll
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\bin\Debug\Model.pdb
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\bin\Debug\Model.xml
+C:\Users\damil\Desktop\Testes Pleno\meu\DAO\obj\Debug\DAO.vbproj.CopyComplete
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\bin\Debug\DAO.dll
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\bin\Debug\DAO.pdb
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\bin\Debug\DAO.xml
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\bin\Debug\Model.dll
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\bin\Debug\Model.pdb
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\bin\Debug\Model.xml
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\obj\Debug\DAO.vbproj.AssemblyReference.cache
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\obj\Debug\DAO.Resources.resources
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\obj\Debug\DAO.vbproj.GenerateResource.cache
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\obj\Debug\DAO.vbproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\obj\Debug\DAO.vbproj.CopyComplete
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\obj\Debug\DAO.dll
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\obj\Debug\DAO.xml
+C:\Users\Leonardo\Downloads\WebApplication2\DAO\obj\Debug\DAO.pdb
